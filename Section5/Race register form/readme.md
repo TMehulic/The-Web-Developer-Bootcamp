@@ -1,0 +1,1 @@
+Inputs combined in one form.
