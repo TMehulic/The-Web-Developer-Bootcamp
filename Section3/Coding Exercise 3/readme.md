@@ -1,0 +1,1 @@
+Simple exercise with link and image.
