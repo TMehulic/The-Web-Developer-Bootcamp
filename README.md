@@ -10,4 +10,7 @@ Also I want to make sure I have learned everything correctly.
 
 ## December 10 2020
 Finished HTML&CSS sections (except Bootstrap) and started JavaScript.
-Since I am already familiar with most things, will not type any code until I get to NodeJS.
+Since I am already familiar with most things, will not type any code until I get to Async JS.
+
+## December 19 2020
+Exams finished! Still managed to complete almost all of the JavaScript sections, got to the Async JS.
