@@ -17,4 +17,5 @@ Exams finished! Still managed to complete almost all of the JavaScript sections,
 
 ## January 05 2021
 Finished sections about Express/Node/REST...
+
 Starting to work with database.
