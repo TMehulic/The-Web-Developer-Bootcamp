@@ -14,3 +14,7 @@ Since I am already familiar with most things, will not type any code until I get
 
 ## December 19 2020
 Exams finished! Still managed to complete almost all of the JavaScript sections, got to the Async JS.
+
+## January 05 2021
+Finished sections about Express/Node/REST...
+Starting to work with database.
