@@ -19,3 +19,7 @@ Exams finished! Still managed to complete almost all of the JavaScript sections,
 Finished sections about Express/Node/REST...
 
 Starting to work with database.
+
+## January 27 2021
+Started working on main project of this course, Yelp Camp.
+Link to repository : https://github.com/TMehulic/YelpCamp 
